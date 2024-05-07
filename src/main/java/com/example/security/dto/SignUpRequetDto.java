@@ -8,7 +8,6 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 public class SignUpRequetDto {
-    public Object getLastname;
     private String firstName;
     private String lastName;
     private String email;
